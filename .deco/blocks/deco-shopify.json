@@ -2,7 +2,7 @@
   "__resolveType": "site/apps/deco/shopify.ts",
   "adminAccessToken": {
     "__resolveType": "website/loaders/secret.ts",
-    "encrypted": "39ec9bd95d5a154653d0d80201b5317d52d7a53e09a8b3056f0032198cc6da41c5f5dbb7cc826dc2afdf7345484927f4",
+    "encrypted": "68204e5e9fdc47247526237e40171647cbb30135cdf8a319a9582b18d36d90651d0af230133ed45722d6f7d9e84cc290",
     "name": "SHOPIFY_ACCESS_TOKEN"
   },
   "platform": "shopify",
